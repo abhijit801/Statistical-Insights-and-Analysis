@@ -1,4 +1,5 @@
 This project provides a comprehensive statistical analysis of the energy drink market, focusing on consumer preferences and brand perception. By analyzing survey data from 10,000 respondents across 10 cities in India, the project uncovers key insights into brand awareness, consumer behavior, and regional market dynamics, helping to inform strategic decisions for improving market presence and brand positioning.
+
 Datasets are in csv format:
 1. respondents
 2. cities
